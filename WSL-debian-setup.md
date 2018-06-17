@@ -1,3 +1,4 @@
+```bash
 sudo apt update
 sudo apt install curl
 sudo apt-get install lsb-release
@@ -13,3 +14,4 @@ sudo apt-get update && sudo apt-get install azure-cli
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
+```
