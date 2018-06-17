@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run:
           name: Greeting
-          command: echo Hello Satnam
+          command: bash create-acr.sh
       - run:
           name: Print the Current Time
           command: date
